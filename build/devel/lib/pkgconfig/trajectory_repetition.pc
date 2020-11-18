@@ -1,0 +1,8 @@
+prefix=/home/st/catkin_ws/src/trajectory_repetition/build/devel
+
+Name: trajectory_repetition
+Description: Description of trajectory_repetition
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

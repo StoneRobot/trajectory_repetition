@@ -1,0 +1,1 @@
+/usr/bin/g++-5  -fPIC -g  -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/st/catkin_ws/src/trajectory_repetition/build/gtest/gtest/src -lpthread -Wl,-rpath,/home/st/catkin_ws/src/trajectory_repetition/build/gtest/gtest/src 

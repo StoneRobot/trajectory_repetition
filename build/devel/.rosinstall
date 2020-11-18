@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/st/catkin_ws/src/trajectory_repetition/build/devel/setup.sh
